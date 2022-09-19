@@ -2,7 +2,7 @@
     "name": "@late7-demo-org/haiku-demo",
     "description": "Simple Hello World Node.js sample for App Service",
     "version": "0.0.1",
-    "private": true,
+    "private": false,
     "license": "MIT",
     "author": "Microsoft",
     "scripts": {
