@@ -1,6 +1,6 @@
 {
-    "name": "@contribyte/pack-haiku-demo",
-    "description": "Simple Node.js sample for App Service",
+    "name": "@late7-demo-org/pack-haiku-demo",
+    "description": "Simple Hello World Node.js sample for App Service",
     "version": "1.0.0",
     "private": false,
     "license": "MIT",
@@ -18,7 +18,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/contribyte/haiku-demo.git"
+        "url": "https://github.com/Late7-Demo-Org/haiku-demo.git"
     },
     "publishConfig": {
         "registry":"https://npm.pkg.github.com"
